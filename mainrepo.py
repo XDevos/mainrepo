@@ -7,5 +7,5 @@ def print_mainrepo():
 
 if __name__ == "__main__":
     print_mainrepo()
-    print("sub version:" + sr.__version__)
+    print("sub version: " + sr.__version__)
     print_subrepo()
