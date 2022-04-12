@@ -1,3 +1,0 @@
-[submodule "subrepo"]
-	path = subrepo
-	url = git@github.com:XDevos/subrepo.git
